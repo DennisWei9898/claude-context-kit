@@ -105,6 +105,13 @@ claude-context-kit/
 
 ---
 
+## Contact
+
+Open to collaboration, consulting, or any questions about this skill.
+
+- LinkedIn: https://www.linkedin.com/in/dennis-wei-47393a14a/
+- Email: dennis.xd.wei@gmail.com
+
 ## License
 
 MIT
@@ -218,6 +225,13 @@ claude-context-kit/
 ```
 
 ---
+
+## 聯絡方式
+
+歡迎商業合作、諮詢邀約或任何關於此 skill 的問題。
+
+- LinkedIn：https://www.linkedin.com/in/dennis-wei-47393a14a/
+- Email：dennis.xd.wei@gmail.com
 
 ## 授權
 
